@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MedFilt:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MedFilt_jar</output-path>
+    <root id="archive" name="MedFilt.jar">
+      <element id="module-output" name="MedFilt" />
+    </root>
+  </artifact>
+</component>
